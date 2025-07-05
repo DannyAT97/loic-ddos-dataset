@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv-loic/
+.env/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# CSV files
+*.csv
+
+# PCAP
+*.pcap
+*.pcapng
+
+# Folders
+
