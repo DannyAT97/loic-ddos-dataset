@@ -19,6 +19,12 @@ venv-loic/
 # CSV files
 *.csv
 
+# Parquet files
+*.parquet
+
+# Log files
+*.log
+
 # PCAP
 *.pcap
 *.pcapng
